@@ -9,9 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
     "tiktok-scraper": "^1.4.36"
-    
   }
-  
 }
-
